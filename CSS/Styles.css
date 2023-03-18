@@ -1,7 +1,7 @@
 .img_1{
-    position: absolute;
-    right: 20rem;
-    padding: 30px;
+    position:absolute;
+    right: 300px;
+    top: 90px
 }
 body{
     background-color: #2B3A55;
@@ -37,8 +37,10 @@ p{
 }
 .img_3{
     position: absolute;
-    top: 280px;
-    left: 20rem;
+    top: 150px;
+
+    left: 300px;
+}
     
 }
 hr{
