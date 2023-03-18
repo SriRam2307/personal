@@ -1,5 +1,5 @@
 .img_1{
-    position:absolute;
+    position:relative;
     right: 300px;
     top: 90px
 }
@@ -36,7 +36,7 @@ p{
 
 }
 .img_3{
-    position: absolute;
+    position: relative;
     top: 150px;
 
     left: 300px;
